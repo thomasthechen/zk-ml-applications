@@ -2,8 +2,8 @@
 node_modules/
 frontend/node_modules/
 
-frontend/public/hotdog_model
-frontend/public/language_model
+#frontend/public/hotdog_model
+#frontend/public/language_model
 jupyter/
 .DS_Store
 # hardhat
@@ -15,8 +15,8 @@ test/
 # Users can remove these lines and commit the artifacts
 circuits/*.r1cs
 circuits/*.vkey.json
-circuits/*.wasm
-circuits/*.zkey
+#circuits/*.wasm
+#circuits/*.zkey
 #custom build script
 build/
 phase1/
